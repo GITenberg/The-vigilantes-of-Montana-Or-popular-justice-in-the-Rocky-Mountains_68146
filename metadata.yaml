@@ -1,0 +1,27 @@
+_repo: The-vigilantes-of-Montana-Or-popular-justice-in-the-Rocky-Mountains_68146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dimsdale, Thos. J.
+    gutenberg_agent_id: '54627'
+    url: http://www.gutenberg.org/2009/agents/54627
+description: ''
+gutenberg_issued: '2022-05-21'
+identifiers:
+  gutenberg: '68146'
+language: en
+pgterms:marc904: https://archive.org/details/GR_1086/page/n1/mode/2up
+pgterms:marc905: 20210928113435dimsdale
+pgterms:marc906: '1865'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Montana Post Press, D. W. Tilton & Co.,1865,pubdate
+  1866.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The vigilantes of Montana: Or, popular justice in the Rocky Mountains'
+url: http://www.gutenberg.org/ebooks/68146
