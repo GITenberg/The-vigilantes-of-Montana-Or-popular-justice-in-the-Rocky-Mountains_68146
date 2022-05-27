@@ -1,11 +1,16 @@
 _repo: The-vigilantes-of-Montana-Or-popular-justice-in-the-Rocky-Mountains_68146
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68146-h/images/cover.jpg
 creator:
   author:
     agent_name: Dimsdale, Thos. J.
     gutenberg_agent_id: '54627'
     url: http://www.gutenberg.org/2009/agents/54627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68146#The-vigilantes-of-Montana-Or-popular-justice-in-the-Rocky-Mountains
 gutenberg_issued: '2022-05-21'
 identifiers:
   gutenberg: '68146'
